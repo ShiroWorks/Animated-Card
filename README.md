@@ -1,5 +1,7 @@
 # Animated Card
 
+[Live version](https://animated-card-scss.netlify.app/)
+
 ### To install
 
 ```
